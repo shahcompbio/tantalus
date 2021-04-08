@@ -1,4 +1,4 @@
-Django==2.2
+Django==2.2.20
 django-datatables-view==1.14.0
 django-extensions==1.8.1
 django-filter==2.0.0
